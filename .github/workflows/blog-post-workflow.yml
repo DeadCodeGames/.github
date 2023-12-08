@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Edit Organization README
 on: 
     schedule:
         - cron: '0 * * * *'
