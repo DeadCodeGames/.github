@@ -11,4 +11,5 @@
 <br>
 <h3 align="center">latest dev.to posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [hello dev world](https://dev.to/dead404code/hello-dev-world-4iea)
 <!-- BLOG-POST-LIST:END -->
