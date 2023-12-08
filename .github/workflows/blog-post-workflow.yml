@@ -13,3 +13,11 @@ jobs:
                 max_post_count: "5"
                 feed_list: "https://dev.to/feed/dead404code"
                 readme_path: "./profile/README.md"
+    github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+          contents: write
+        steps:
+          - uses: lowlighter/metrics@latest
+            with:
+              token: ${{ secrets.METRICS_TOKEN }}
