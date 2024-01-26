@@ -1,0 +1,2 @@
+[![Edit Organization README](https://github.com/DeadCodeGames/.github/actions/workflows/org-readme.yml/badge.svg?event=workflow_run)](https://github.com/DeadCodeGames/.github/actions/workflows/org-readme.yml)
+[![Edit Organization README](https://github.com/DeadCodeGames/.github/actions/workflows/org-readme.yml/badge.svg?event=workflow_dispatch)](https://github.com/DeadCodeGames/.github/actions/workflows/org-readme.yml)
