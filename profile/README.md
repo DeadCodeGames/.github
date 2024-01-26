@@ -17,4 +17,4 @@
 ---
 <p align=center>support us!</p>
 
-<p align="center"><span><a href="https://ko-fi.com/deadcodegames"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a><a href="https://patreon.com/deadcodegames"> <img src="https://github.com/DeadCodeGames/.github/assets/73738591/573cfa59-c0bd-4daa-a0de-da88ec6a717e" height="30"></a></span></p>
+<p align="center"><span><a href="https://ko-fi.com/deadcodegames"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a> <a href="https://patreon.com/deadcodegames"><img src="https://github.com/DeadCodeGames/.github/assets/73738591/573cfa59-c0bd-4daa-a0de-da88ec6a717e" height="30"></a></span></p>
