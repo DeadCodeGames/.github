@@ -22,3 +22,12 @@ jobs:
             with:
               token: ${{ secrets.READMETOKEN }}
               user: DeadCodeGames
+              plugin_languages: yes
+              plugin_languages_indepth: true
+              plugin_languages_details: percentage, lines
+              plugin_people: yes
+              plugin_people_types: members
+              plugin_followup: yes
+              plugin_followup_sections: user
+              plugin_followup_indepth: yes
+              plugin_followup_archived: yes
