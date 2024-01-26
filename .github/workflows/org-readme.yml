@@ -27,5 +27,4 @@ jobs:
               plugin_people_types: members
               plugin_followup: yes
               plugin_followup_sections: user
-              plugin_followup_indepth: yes
               plugin_followup_archived: yes
