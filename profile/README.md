@@ -1,7 +1,7 @@
 <h1 align="center">hi, we are deadcode</h1>
 <p align="center">a group of IT students from slovakia</p>
 
-<p align="center"><img src="github-metrics.svg"></p>
+<p align="center"><img src="../github-metrics.svg"></p>
 
 <h3 align="center">connect with us:</h3>
 <p align="center">
