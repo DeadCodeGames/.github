@@ -26,3 +26,4 @@ jobs:
               user: DeadCodeGames
               plugin_languages: yes
               plugin_languages_ignored: CSS, CMake
+              plugin_languages_paths_ignored: "DeadCodeGames/metrics, DeadCodeGames/Serenify:sqlite"
