@@ -20,6 +20,12 @@ jobs:
         permissions:
           contents: write
         steps:
+          - name: auth
+            uses: docker/login-action/@v3
+            with:
+              registry: ghcr.io
+              username: RichardKanshen
+              password: ${{ secrets.GHCR_TOKEN_METRICS_READ }}
           - uses: DeadCodeGames/metrics@master
             with:
               token: ${{ secrets.READMETOKEN }}
